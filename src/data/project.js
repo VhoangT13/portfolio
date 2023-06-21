@@ -5,7 +5,7 @@ export default [
     stack: ["Nextjs", "Tailwind", "Clerk", "Supabase", "Zustand"],
     link: "https://trello-clone-by-vh.vercel.app/",
     sourceCode: "https://github.com/VhoangT13/trello-clone",
-    description: `A sleek Trello clone built with Next.js and. Authenticate seamlessly with Clerk and enjoy features such as creating new boards, adding/editing todos, and effortless drag-and-drop functionality.`,
+    description: `A sleek Trello clone built with Next.js. Authenticate seamlessly with Clerk and enjoy features such as creating new boards, adding/editing todos, and effortless drag-and-drop functionality.State management with Zustand and storing data with Supabase.`,
   },
   {
     title: "KeyCrafter",
