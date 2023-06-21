@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="mb-10 lg:pt-16">
         <p className="mb-4 text-xl">
           Hi 👋, my name is{" "}
-          <span className="text-2xl dark:text-stone-200 font-semibold">
+          <span className="text-2xl font-semibold dark:text-stone-200">
             Hoang
           </span>
         </p>
@@ -15,8 +15,9 @@ const Hero = () => {
         </p>
         <div className="flex gap-4">
           <a
-            className="px-4  py-4 text-lg text-gray-800 bg-yellow-400 border border-gray-800 rounded-full md:px-6 hover:shadow-xl"
-            href="#"
+            className="px-4 py-4 text-lg text-gray-800 bg-yellow-400 border border-gray-800 rounded-full md:px-6 hover:shadow-xl"
+            href="/assets/trinhviethoang-cv.pdf"
+            target="_blank"
           >
             My Resume
           </a>
